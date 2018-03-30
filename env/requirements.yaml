@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.56
 - name: demo05
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
+  version: 0.0.5
 - name: "20180330"
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
